@@ -67,8 +67,10 @@ Permite:
 - Ingresar fecha y hora
 - Agendar la cita
 - Cerrar el programa automáticamente al finalizar
- ![texto alternativo]("C:\Users\Usuario\Downloads\Imagen de WhatsApp 2025-11-18 a las 23.11.40_15751b79.jpg")
-  ![texto alternativo](""C:\Users\Usuario\Downloads\Imagen de WhatsApp 2025-11-18 a las 23.11.59_dea03def.jpg"")
+
+<img src="/C:/Users/Usuario/Downloads/Imagen de WhatsApp 2025-11-18 a las 23.11.40_15751b79.jpg"/>
+ ![texto alternativo]()
+ ![texto alternativo](/C:/Users/Usuario/Downloads/Imagen de WhatsApp 2025-11-18 a las 23.11.59_dea03def.jpg)
 
 ---
 
