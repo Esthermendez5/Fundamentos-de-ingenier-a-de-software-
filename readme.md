@@ -15,11 +15,11 @@ Incluye todos los artefactos UML requeridos: casos de uso, diagramas específico
    - Clases
    - Secuencia
    - CRC
-3. [Enlaces a Diagramas](#Gestion_de_citas_medicas.eapx)
-5. [Código Generado Enterprise Architect](#ClasesGeneradas_por_enterprise_Architec)
-6. [Código Fuente Implementado](#GestionCitasMedicas)
-7. [Imágenes del Resultado del Programa](#resultadoPrograma)
-8. [Entregable](#Entregable_Tarea_Semana_07)
+3. [Enlaces a Diagramas](Gestion_de_citas_medicas.eapx)
+5. [Código Generado Enterprise Architect](ClasesGeneradas_por_enterprise_Architec)
+6. [Código Fuente Implementado](GestionCitasMedicas)
+7. [Imágenes del Resultado del Programa](resultadoPrograma)
+8. [Entregable](Entregable_Tarea_Semana_07)
 ---
 
 # 🎯 Objetivo del Proyecto
