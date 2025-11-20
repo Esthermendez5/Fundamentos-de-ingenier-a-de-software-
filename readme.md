@@ -19,7 +19,7 @@ Incluye todos los artefactos UML requeridos: casos de uso, diagramas específico
 5. [Código Generado Enterprise Architect](ClasesGeneradasporenterpriseArchitec)
 6. [Código Fuente Implementado](GestionCitasMedicas)
 7. [Imágenes del Resultado del Programa](resultadoPrograma)
-8. [Entregable](EntregableTareaSemana07)
+8. [Entregable](Entregable%20Tarea%20Semana%2007)
 ---
 
 # 🎯 Objetivo del Proyecto
