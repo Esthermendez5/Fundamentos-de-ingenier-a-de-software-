@@ -1,89 +1,41 @@
 # 🩺 Sistema de Gestión de Citas Médicas  
-Proyecto académico — Ingeniería de Software
+Proyecto académico — Ingeniería de Software — UTPL  
 
-Este proyecto implementa un módulo funcional para la **gestión y registro de citas médicas**, cumpliendo los requisitos de análisis UML, diseño orientado a objetos y codificación del modelo. Incluye diagramas de casos de uso, clases, secuencia y la implementación gráfica del proceso de agendamiento de una cita.
-
----
-
-## 📌 Objetivo del Proyecto
-
-Automatizar el registro de citas médicas permitiendo a un paciente:
-
-- Registrar sus datos.
-- Seleccionar un doctor.
-- Elegir fecha y hora.
-- Crear una cita médica.
-- Recibir una notificación automática de confirmación.
-
+Este proyecto implementa un módulo funcional para la **gestión y registro de citas médicas**, siguiendo el proceso completo de análisis UML, diseño orientado a objetos y programación del modelo.  
+Incluye todos los artefactos UML requeridos: casos de uso, diagramas específicos, clases, secuencia, tarjetas CRC y la implementación con interfaz gráfica.
 
 ---
 
-## 🧩 Arquitectura del Sistema
+# 📚 Índice
 
-El proyecto está organizado siguiendo el modelo orientado a objetos.
+1. [Objetivo del Proyecto](#objetivo-del-proyecto)
+2. [Diagramas UML](#diagramas-uml)
+   - Casos de Uso
+   - Específicos
+   - Clases
+   - Secuencia
+   - CRC
+3. [Enlaces a Diagramas](#Gestion_de_citas_medicas.eapx)
+5. [Código Generado Enterprise Architect](#ClasesGeneradas_por_enterprise_Architec)
+6. [Código Fuente Implementado](#GestionCitasMedicas)
+7. [Imágenes del Resultado del Programa](#resultadoPrograma)
+8. [Entregable](#Entregable_Tarea_Semana_07)
+---
 
-### **Clases Principales**
-| Clase | Descripción |
-|-------|-------------|
-| `Paciente` | Representa los datos y acciones del paciente. |
-| `Doctor` | Contiene información del doctor y su disponibilidad. |
-| `CitaMedica` | Estructura principal para registrar fecha, hora, doctor y paciente. |
-| `Notificacion` | Genera y envía mensajes de confirmación. |
-| `InterfazNotificar` | Interface que define el contrato para el envío de notificaciones. |
-| `ServicioNotificaciones` | Implementación concreta de la interface. |
-| `GestionCitasMedicas` | Interfaz gráfica del sistema para agendar citas. |
+# 🎯 Objetivo del Proyecto
+
+Desarrollar un sistema que permita:
+
+- Agendar citas médicas.
+- Validar disponibilidad del doctor.
+- Registrar la información del paciente.
+- Crear automáticamente una cita en el sistema.
+- Generar y enviar una notificación al paciente.
+- Mostrar una confirmación y cerrar el programa.
+
+Todo basado estrictamente en los **diagramas y modelos UML del curso**.
 
 ---
 
-## 📘 Diagramas UML Incluidos
 
-### ✔ Diagrama de Casos de Uso  
-Representa los actores y funcionalidades principales:  
-- Registrar paciente  
-- Agendar cita  
-- Enviar notificación  
-
-### ✔ Diagrama de Clases  
-Incluye relaciones, métodos, atributos, una interface y colaboraciones.
-
-### ✔ Diagrama de Secuencia  
-Modela el escenario “Agendar Cita” paso por paso:
-
-1. Solicitud del paciente  
-2. Consulta de disponibilidad del doctor  
-3. Creación de la cita  
-4. Generación de la notificación  
-5. Confirmación al usuario  
-
----
-
-## 🖥 Interfaz de Usuario
-
-El sistema incluye una **UI moderna en Java Swing**, con estilos, colores suaves y diseño tipo tarjeta.  
-Permite:
-
-- Ingresar datos del paciente
-- Seleccionar doctor
-- Ingresar fecha y hora
-- Agendar la cita
-- Cerrar el programa automáticamente al finalizar
-
-<img src="/C:/Users/Usuario/Downloads/Imagen de WhatsApp 2025-11-18 a las 23.11.40_15751b79.jpg"/>
- ![texto alternativo]()
- ![texto alternativo](/C:/Users/Usuario/Downloads/Imagen de WhatsApp 2025-11-18 a las 23.11.59_dea03def.jpg)
-
----
-
-## 🧑‍🏫 Trabajo Académico
-
-Este proyecto forma parte de la **Semana 07: Casos de uso, clases, relaciones y secuencia**, cumpliendo con los siguientes entregables:
-
-- ✔ Diagramas UML  
-- ✔ Tarjetas CRC  
-- ✔ Código del modelo  
-- ✔ Simulación del escenario “Agendar Cita”  
-- ✔ Interfaz gráfica funcional  
-- ✔ Publicación en GitHub de acceso abierto  
-
----
 
