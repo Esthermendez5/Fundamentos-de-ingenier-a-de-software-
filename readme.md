@@ -8,14 +8,14 @@ Incluye todos los artefactos UML requeridos: casos de uso, diagramas específico
 
 # 📚 Índice
 
-1. [Objetivo del Proyecto](#objetivo-del-proyecto)
-2. [Diagramas UML](#diagramas-uml)
+1. Objetivo del Proyecto
+2. Diagramas UML
    - Casos de Uso
    - Específicos
    - Clases
    - Secuencia
    - CRC
-3. [Enlaces a Diagramas](Gestion%20de%20citas%20medicas.eapx)
+3. [Enlaces a Diagramas](GestionDeCitasMedicas.eapx)
 5. [Código Generado Enterprise Architect](ClasesGeneradasporenterpriseArchitec)
 6. [Código Fuente Implementado](GestionCitasMedicas)
 7. [Imágenes del Resultado del Programa](resultadoPrograma)
